@@ -37,6 +37,16 @@ a {
     text-decoration: none;
 }
 
+.blur-mask {
+    z-index: 98;
+    background-color: rgba(24, 23, 23, 0.3);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 
 /*--------------------------- general -----------------------------------*/
 
